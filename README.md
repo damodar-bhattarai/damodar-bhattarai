@@ -1,4 +1,4 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] 
+ ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
   <h1 align="center"><b>Hello there, I'm Damodar 👋</b></h1>
 </p>
