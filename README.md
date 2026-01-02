@@ -70,14 +70,15 @@ I build **scalable, secure, and SEO-friendly web applications**, APIs, admin pan
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damodar-bhattarai&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damodar-bhattarai&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodar-bhattarai&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damodar-bhattarai&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damodar-bhattarai&theme=github_dark" />
 </p>
 
 ---
