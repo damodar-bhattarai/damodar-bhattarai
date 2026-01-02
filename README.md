@@ -1,72 +1,108 @@
+<!--
+GitHub Profile README
+Author: Damodar Bhattarai
+SEO Focus: Laravel Developer Nepal | Freelance Laravel Developer
+-->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Damodar+Bhattarai+%F0%9F%91%8B;Freelance+Laravel+%26+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=1000&lines=Damodar+Bhattarai;Laravel+Developer+in+Nepal;Freelance+Full-Stack+Web+Developer;Laravel+%7C+Livewire+%7C+FilamentPHP+%7C+MySQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Full-Stack Web Developer</strong> from Nepal 🇳🇵<br>
-  Building fast, scalable, and beautiful web applications with <strong>Laravel</strong> • Livewire • Filament • PHP
-</p>
-
-<div align="center">
-  
-  [![Website](https://img.shields.io/badge/Website-damodar.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://damodar.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhattaraidamodar/)
-  [![Email](https://img.shields.io/badge/Email-work@damodar.dev-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@damodar.dev)
-  [![Phone](https://img.shields.io/badge/Phone-+977%209825710275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-
-</div>
-
----
-
-### 🔥 About Me
-
-- 🔭 Currently working on: **Personal Portfolio** & **Freelance Laravel Projects**
-- 🌱 Learning & growing: **Advanced Laravel**, Filament, Livewire, TALL stack
-- 👨‍💻 Most proud of: [**settings**](https://github.com/damodar-bhattarai/settings) — Laravel package with **31+ stars**!  
-  → Easy DB-based settings management with caching & zero extra queries
-- 💬 Ask me about: Laravel, PHP, Livewire, Filament, MySQL, VPS/Hosting, web security
-- 📈 Open for: **Freelance work**, remote collaborations, interesting Laravel projects
-- 📫 Best way to reach me → **LinkedIn** or **work@damodar.dev**
-
-> "Talk is cheap. Show me the code." – Linus Torvalds
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,html,css,js,tailwind,mysql,git,github,vscode,nginx,linux" alt="Tech Stack" />
+  <img src="https://komarev.com/ghpvc/?username=damodar-bhattarai&label=Profile%20Views&color=36BCF7&style=flat" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 👋 Hi, I'm Damodar Bhattarai
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damodar-bhattarai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damodar-bhattarai&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
+I am a **Freelance Laravel Developer based in Nepal**, specializing in **Laravel, PHP, Livewire, FilamentPHP, Vue.js, and MySQL**.  
+I build **scalable, secure, and SEO-friendly web applications**, APIs, admin panels, and SAAS platforms for businesses and startups.
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodar-bhattarai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+📍 Location: Nepal  
+🌍 Availability: Remote & Freelance  
+📧 Email: work@damodar.dev  
+🌐 Website: https://damodar.dev
 
 ---
 
-### ⭐ Featured Project
+## 🏷️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://github.com/damodar-bhattarai/settings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=damodar-bhattarai&repo=settings&theme=radical" alt="settings package" />
-  </a>
-</p>
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**settings** – The easiest way to manage your Laravel app/website settings in database with full caching support.
+### Frontend
+![Livewire](https://img.shields.io/badge/Livewire-4E2A8E?style=for-the-badge)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
+## 🚀 Services I Provide
+
+- Custom **Laravel Web Application Development**
+- **SAAS Platforms & Admin Dashboards**
+- REST API & Backend Development
+- Livewire-based Interactive UI
+- Database Design & Optimization (MySQL)
+- VPS / cPanel Deployment & Maintenance
+- Website Performance & SEO Optimization
+
+---
+
+## 📌 Featured Work
+
+- **Laravel College Management System** (fees, roles, admissions, Livewire UI)
+- **Domain & Hosting Management System**
+- **E-commerce Platforms**
+- **CMS & Business Dashboards**
+- **Laravel Packages & Reusable Components**
+
+👉 Explore repositories below for real-world implementations.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <i>Thanks for stopping by! Feel free to star ⭐ my repos if you find them useful</i><br><br>
-  Let's connect and build something awesome together! 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=damodar-bhattarai&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodar-bhattarai&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" />
+</p>
+
+---
+
+## 🐍 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/damodar-bhattarai/damodar-bhattarai/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-damodar.dev-36BCF7?style=for-the-badge)](https://damodar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Damodar%20Bhattarai-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhattaraidamodar/)
+[![Instagram](https://img.shields.io/badge/Instagram-whois__albin-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/whois__albin)
+[![Facebook](https://img.shields.io/badge/Facebook-Damodar%20Bhattarai-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/albin.bhattarai.90)
+
+---
+
+### 🔍 SEO Keywords
+
+Laravel Developer Nepal · Freelance Laravel Developer · PHP Developer · Full-Stack Web Developer · Livewire Developer · FilamentPHP · MySQL · Remote Developer
+
+---
+
+_Last updated: 2026-01-02_
